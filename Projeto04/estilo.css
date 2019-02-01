@@ -1,0 +1,49 @@
+ul{
+    padding:0px;
+    
+}
+
+li{
+    list-style-type: none;
+    background-color: #4a4a4a;
+    margin-bottom: 2px;
+    padding: 70px 80px 70px 90px;
+    background-image: url(pendente.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    -webkit-font-smoothing: antialiased;
+    
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-image: url(prossiga.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    
+}
+
+
+
+li:hover {
+    background-color: #6e6d6e;
+
+}
+
+li.concluido{
+    background-color:#27ae60;
+    background-image: url(concluido.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
+
+li.concluido:hover{
+    background-color: #52be7f;
+}

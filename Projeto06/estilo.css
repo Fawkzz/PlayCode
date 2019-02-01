@@ -1,0 +1,43 @@
+
+body{
+    padding: 10px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #4a4a4a;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+
+
+.foto{
+    margin-bottom: 20px;
+}
+
+.foto img{
+width: 100%;
+}
+
+
+@media all and (min-width: 500px) {
+    .principal { 
+    width: 960px;
+    margin: 0 auto;
+    }
+    .foto {
+        width: 300px;
+        float: left;
+        padding-right: 10px;
+    }
+  }
+
+

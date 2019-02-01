@@ -1,0 +1,11 @@
+@media all and (min-width: 500px) {
+    .principal { 
+    width: 960px;
+    margin: 0 auto;
+    }
+    .foto {
+        width: 300px;
+        float: left;
+        padding-right: 10px;
+    }
+  }

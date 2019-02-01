@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+    text-align: center;
+    color: darkgrey
+}
+
+li {
+    list-style-type: none;
+    background-color: mediumpurple;
+    padding: 12px;
+    margin-bottom: 12px;
+    widows: auto;
+    color:white;
+    font: 18px;
+    font-weight: bold;
+}
